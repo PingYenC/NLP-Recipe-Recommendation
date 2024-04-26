@@ -1,3 +1,5 @@
+"Recipe_Recommendation_System" is the function used for the user interface
+
 You can find the recommendation system user interface here:
 https://uci-msba-nlp-group9.mystrikingly.com/
 
