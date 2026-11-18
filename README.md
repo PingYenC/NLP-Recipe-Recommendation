@@ -12,3 +12,7 @@ https://uci-msba-nlp-group9.mystrikingly.com/
 
 
 (Since the data required for the model is stored in my drive, you will encounter errors while using the Language Model before I run the linked Python codes from my side.)
+
+## Setup: Anvil uplink key
+
+`Recipe_Recommendation_System.ipynb` reads the Anvil server uplink key from Colab Secrets. In Colab, open the key icon (Secrets) in the left sidebar, add a secret named `ANVIL_UPLINK_KEY` with your key, and enable notebook access. Never paste the key into the notebook.
